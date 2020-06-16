@@ -1,8 +1,8 @@
-body, html {
-    margin: 0;
-    padding: 0
+body {
+    height: 100vh;
+    background-image: linear-gradient(to right, #ffecd2 0%, #fcb69f 100%)
 }
 
-nav {
-    background-color: green;
+.nav {
+    display: flex;
 }
