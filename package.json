@@ -1,0 +1,19 @@
+{
+  "name": "testing-vue-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dirt54/Vue-Project.git"
+  },
+  "author": "Luke Robinson, Sam Bryant, Bailey Hill",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dirt54/Vue-Project/issues"
+  },
+  "homepage": "https://github.com/Dirt54/Vue-Project#readme"
+}
