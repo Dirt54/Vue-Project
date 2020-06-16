@@ -1,6 +1,6 @@
 <template>
     <footer>
-        <div>
+        <div>this is a div
             <h2>Yess footer baby</h2>
         </div>
     </footer>
